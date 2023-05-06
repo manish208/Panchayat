@@ -1,2 +1,2 @@
 # Panchayat
-Mean Stack Mini Project
+Mean Stack Mini Project, Using Mongo, Express, Angular, Nodejs, 
